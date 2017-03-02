@@ -1,0 +1,2 @@
+# ApplianceCapture
+Raspberry Piのカメラモジュールで家電の画像取得を行いROSに送るスクリプト
